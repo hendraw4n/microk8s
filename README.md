@@ -48,5 +48,6 @@ $ kubectl get nodes
 $ kubectl get pods -A
 ```
 
-7. To stop the VM run `vagrant halt` inside the vagrant folder. 
-8. To start a VM from a `Stopped` or `Aborted` state, use `vagrant up`.
+7. Run `kubectl config view --raw >~/.kube/config`
+8. To stop the VM run `vagrant halt` inside the vagrant folder. 
+9. To start a VM from a `Stopped` or `Aborted` state, use `vagrant up`.
