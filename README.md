@@ -13,6 +13,7 @@ For development purpose only.
 In order to install VirtualBox, use this link:
 
 https://www.virtualbox.org/wiki/Downloads
+
 https://download.virtualbox.org/virtualbox/6.1.22/VirtualBox-6.1.22-144080-Win.exe
 
 Install the VirtualBox 6.1.22 Oracle VM VirtualBox Extension Pack as well, using following link:
@@ -23,6 +24,7 @@ https://download.virtualbox.org/virtualbox/6.1.22/Oracle_VM_VirtualBox_Extension
 Install Vagrant for Windows
 
 https://www.vagrantup.com/downloads.html
+
 https://releases.hashicorp.com/vagrant/2.2.16/vagrant_2.2.16_x86_64.msi
 
 ## Getting Started
